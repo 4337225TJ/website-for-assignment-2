@@ -17,6 +17,10 @@
 3. **Responsive Design**: 
    - The website is designed to be fully responsive, ensuring that it looks and functions well on a variety of devices, including desktops, tablets, and smartphones. This is achieved through the use of flexible layouts, media queries, and scalable elements.
    - A responsive design is crucial for providing a positive user experience, as it allows users to access the website from any device without compromising on usability or aesthetics.
+4. **Images**: 
+   - **Logo**: The logo is chosen to establish a strong brand identity and create a professional impression. It ensures users can immediately recognize the website and associate it with the web development course. Placing the logo prominently in the header aligns with user requirements for easy navigation and brand visibility.
+   - **Homepage Image**: The homepage image is carefully selected to represent the theme of web development and creativity. It visually engages users and sets the tone for the website, making it appealing and relevant to the target audience. This choice meets user requirements by enhancing the aesthetic appeal and providing a welcoming first impression.
+   - Both images are optimized for web use to ensure fast loading times and responsiveness, which is critical for maintaining a positive user experience across different devices.
 
 ## Development and Testing
 
@@ -41,7 +45,7 @@
 ## Feedback and Results
 
 ### Feedback Collection
-- **Direct Feedback**: Collect direct feedback from users during testing sessions.
+- **Direct Feedback**: Collected direct feedback from users during testing sessions.
 
 ### Results
 - **Functionality**: All navigation links and interactive elements were tested and confirmed to be working correctly.
